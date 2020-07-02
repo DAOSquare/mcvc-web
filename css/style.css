@@ -170,7 +170,7 @@ h6 {
   margin-bottom: 0px;
 }
 .color {
-  color: #f7ac54;
+  color: #43E97B;
 }
 .section-header {
   margin-bottom: 70px;
@@ -1210,7 +1210,7 @@ section.section {
  * ========================================
  */
 .bg-image-1 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/background-1.svg');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
