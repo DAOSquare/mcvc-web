@@ -1910,7 +1910,7 @@ section.section {
  * ========================================
  */
 .bg-image-2 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/background-1.svg');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
