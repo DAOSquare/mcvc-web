@@ -165,7 +165,7 @@ h6 {
   font-size: 14px;
   line-height: 40px;
   font-weight: 600;
-  color: #f7ac54;
+  color: #43E97B;
   text-transform: uppercase;
   margin-bottom: 0px;
 }
@@ -320,7 +320,7 @@ section.section {
 .btn .icon {
   position: relative;
   top: 3px;
-  color: #f7ac54;
+  color: #43E97B;
 }
 .btn.left-icon .icon {
   margin-right: 4px;
@@ -334,7 +334,7 @@ section.section {
 }
 .btn.btn-fill {
   padding: 14px 30px;
-  background-color: #f7ac54;
+  background-color: #43E97B;
   color: #282828;
 }
 .btn.btn-fill,
@@ -346,9 +346,9 @@ section.section {
 .btn.btn-border {
   background-color: transparent;
   border: 2px solid;
-  border-color: #f7ac54;
+  border-color: #43E97B;
   padding: 12px 30px;
-  color: #f7ac54;
+  color: #43E97B;
 }
 .btn.btn-border:hover {
   background-color: #feb960;
@@ -723,7 +723,7 @@ section.section {
   left: 0;
   width: 100%;
   height: 1px;
-  background-color: #f7ac54;
+  background-color: #43E97B;
   -o-transition: all 400ms cubic-bezier(0.86, 0, 0.07, 1);
   -ms-transition: all 400ms cubic-bezier(0.86, 0, 0.07, 1);
   -moz-transition: all 400ms cubic-bezier(0.86, 0, 0.07, 1);
@@ -751,7 +751,7 @@ section.section {
   background-color: rgba(255, 255, 255, 0.3);
 }
 .single-form .input-label::after {
-  background-color: #f7ac54;
+  background-color: #43E97B;
   -o-transform: translate3d(-100%, 0, 0);
   -ms-transform: translate3d(-100%, 0, 0);
   -moz-transform: translate3d(-100%, 0, 0);
@@ -795,7 +795,7 @@ section.section {
 }
 .single-form .form-control:focus + .input-label .label-text {
   font-size: 11px;
-  color: #f7ac54;
+  color: #43E97B;
   -o-transform: translate3d(0, -26px, 0);
   -ms-transform: translate3d(0, -26px, 0);
   -moz-transform: translate3d(0, -26px, 0);
@@ -811,7 +811,7 @@ section.section {
 }
 .single-form .input-filled .input-label .label-text {
   font-size: 11px;
-  color: #f7ac54;
+  color: #43E97B;
   -o-transform: translate3d(0, -26px, 0);
   -ms-transform: translate3d(0, -26px, 0);
   -moz-transform: translate3d(0, -26px, 0);
@@ -963,7 +963,7 @@ section.section {
 .main-navbar-top .navbar-nav li .btn-nav .icon {
   position: relative;
   top: 3px;
-  color: #f7ac54;
+  color: #43E97B;
   margin-left: 4px;
 }
 .main-navbar-top .navbar-nav li.active .btn-nav {
@@ -1137,7 +1137,7 @@ section.section {
   width: 22px;
   height: 2px;
   position: absolute;
-  background-color: #f7ac54;
+  background-color: #43E97B;
   border-radius: 2px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -1482,7 +1482,7 @@ section.section {
 }
 .services-section .each-services .each-services-inner .features-icon {
   font-size: 20px;
-  color: #f7ac54;
+  color: #43E97B;
 }
 .services-section .each-services .each-services-inner .title-outer {
   padding-top: 10px;
@@ -1502,7 +1502,7 @@ section.section {
   margin-top: 0px;
 }
 .services-section .each-services .each-services-inner .btn .icon {
-  color: #f7ac54 !important;
+  color: #43E97B !important;
 }
 /**
  * ========================================
@@ -1594,7 +1594,7 @@ section.section {
 .services-full-view .services-details .list-outer .icon {
   font-size: 13px;
   margin-right: 5px;
-  color: #f7ac54;
+  color: #43E97B;
 }
 .services-full-view .services-details .list-outer .list {
   margin-bottom: 20px;
@@ -1682,7 +1682,7 @@ section.section {
   perspective: 1000;
 }
 .owl-pagination .owl-page.active {
-  background-color: #f7ac54;
+  background-color: #43E97B;
 }
 /* Carousel Slider NEXT & PREV Button Style */
 .owl-buttons .owl-next {
@@ -1726,7 +1726,7 @@ section.section {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #f7ac54;
+  background-color: #43E97B;
 }
 .project-detail .project-detail-content::before {
   width: 100px;
@@ -1772,7 +1772,7 @@ section.section {
 .line {
   width: 1px;
   height: 115px;
-  background-color: #f7ac54;
+  background-color: #43E97B;
   position: relative;
 }
 .sub-heading-outer {
@@ -1885,7 +1885,7 @@ section.section {
   line-height: 35px;
 }
 .testimonial-section .testimonial-wrapper .item .profile-outer .name {
-  color: #f7ac54;
+  color: #43E97B;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -1997,7 +1997,7 @@ section.section {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #f7ac54;
+  background-color: #43E97B;
   -o-transition-delay: 0s ;
   -ms-transition-delay: 0s ;
   -moz-transition-delay: 0s ;
@@ -2087,7 +2087,7 @@ section.section {
   line-height: 25px;
 }
 .team-member .each-item .profile-content .name {
-  color: #f7ac54;
+  color: #43E97B;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -4030,7 +4030,7 @@ section.section {
   width: 0%;
   height: 3px;
   margin: 0;
-  background: #f7ac54;
+  background: #43E97B;
   position: absolute;
   bottom: -3px;
   left: 0;
@@ -4145,7 +4145,7 @@ section.section {
 }
 #fp-nav ul li a:hover span,
 #fp-nav ul li a.active span {
-  background-color: #f7ac54;
+  background-color: #43E97B;
 }
 #fp-nav ul li.show-text .fp-tooltip .text {
   filter: alpha(opacity=100 ) ;
@@ -4157,7 +4157,7 @@ section.section {
   transform: translate3d(0, 0, 0);
 }
 #fp-nav ul li.show-text a span {
-  background-color: #f7ac54;
+  background-color: #43E97B;
 }
 #fp-nav.show-nav {
   filter: alpha(opacity=100 ) ;

@@ -386,35 +386,35 @@
      * Project Slider and Project Detail Show Button
      * =============================================
      */
-    var sliderButton      = $('.btn-slider, .btn-project-detail');
-    sliderButton.on('click', function(el) {
-      el.preventDefault();
+    // var sliderButton      = $('.btn-slider, .btn-project-detail');
+    // sliderButton.on('click', function(el) {
+    //   el.preventDefault();
 
-      var mainSectionId   = $( $(this).closest('.porifolio-section') ),
-          dataElement     = $(this).attr('data-element'),
-          dataHeading     = '.each-portfolio-heading',
-          sliderId        = mainSectionId.find('.slider'),
-          projectDetailId = mainSectionId.find('.project-detail'),
-          imageId         = mainSectionId.find('.image');
+    //   var mainSectionId   = $( $(this).closest('.porifolio-section') ),
+    //       dataElement     = $(this).attr('data-element'),
+    //       dataHeading     = '.each-portfolio-heading',
+    //       sliderId        = mainSectionId.find('.slider'),
+    //       projectDetailId = mainSectionId.find('.project-detail'),
+    //       imageId         = mainSectionId.find('.image');
 
-      mainSectionId.find( dataHeading ).addClass('no-heading');
+    //   mainSectionId.find( dataHeading ).addClass('no-heading');
 
-      setTimeout(function() {
+    //   setTimeout(function() {
 
-        if( dataElement === 'slider' ){
-          sliderId.fadeIn(100);
-          sliderId.closest('.slider-outer').css( 'z-index', 111 );
-          sliderId.addClass('active-section');
-        }else if( dataElement === 'project-detail' ){
-          projectDetailId.fadeIn(100);
-          projectDetailId.closest('.project-detail-outer').css( 'z-index', 111 );
-          projectDetailId.addClass('active-section');
-        }
+    //     if( dataElement === 'slider' ){
+    //       sliderId.fadeIn(100);
+    //       sliderId.closest('.slider-outer').css( 'z-index', 111 );
+    //       sliderId.addClass('active-section');
+    //     }else if( dataElement === 'project-detail' ){
+    //       projectDetailId.fadeIn(100);
+    //       projectDetailId.closest('.project-detail-outer').css( 'z-index', 111 );
+    //       projectDetailId.addClass('active-section');
+    //     }
 
-      }, 600 );
+    //   }, 600 );
 
-      imageId.fadeOut(600);
-    });
+    //   imageId.fadeOut(600);
+    // });
 
 
 
